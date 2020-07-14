@@ -1,5 +1,37 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here.....love you </h2>
-<p>please come back soon....!! please i love you</p>
-<p>miss you....fcked</p>
+<html> 
+<head> 
+<title> Canceling Order</title> 
+</head> 
+<body style="background:whitesmoke;"> 
+<center><h1 style="color:red; font-family:times new roman; font-size:32px; font-weight:bold; font-style:italic;">Canceling Order</h1> 
+<form action="PayAmount" method="POST"> 
+<table> 
+<tr> 
+<td> 
+Cancellation Details: 
+
+</td> 
+</tr> 
+<tr> 
+<td>Phone Number</td> 
+<td><input name='phone' type='text'> 
+</td> 
+</tr>
+
+<tr> 
+<td>Customer Name</td> 
+<td><input name='Customer_name' type='text'> 
+</td> 
+</tr>
+
+<tr> 
+<td> 
+<input type="submit" value='submit' formaction='cancelId.jsp'></td> 
+<td> 
+<input type="reset" value='reset'> 
+</td> 
+</tr> 
+<br></table></form> 
+</center> 
+</body> 
+</html> 
